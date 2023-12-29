@@ -39,7 +39,7 @@ go build
 ```
 
 ```sh
-./anitsu -day day_of_the_week
+./anitsu -d day_of_the_week
 ```
 
 ## Output example

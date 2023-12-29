@@ -24,7 +24,7 @@ func main() {
 func parseFlags() jikan.ScheduleFilter {
 	var day string
 
-	flag.StringVar(&day, "day", "monday", "Day of the week")
+	flag.StringVar(&day, "d", "monday", "Day of the week")
 	flag.Parse()
 
 	return jikan.ScheduleFilter(day)
