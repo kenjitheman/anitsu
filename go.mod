@@ -1,4 +1,4 @@
-module github.com/kenjitheman/anisync
+module github.com/kenjitheman/anitsu
 
 go 1.21.5
 
