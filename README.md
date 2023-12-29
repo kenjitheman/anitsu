@@ -18,11 +18,10 @@ AniTsu
 ├── api
 │   ├── api.go
 │   └── api_test.go
-├── cmd
-│   └── main.go
 ├── go.mod
 ├── go.sum
 ├── LICENSE
+├── main.go
 └── README.md
 ```
 
