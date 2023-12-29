@@ -38,9 +38,9 @@ cd anitsu
 go build
 ```
 
-Usage of anitsu:
-  -day string
-        Day of the week (default "monday")
+> Usage of anitsu:
+  > -day string
+        > Day of the week (default "monday")
 
 ```sh
 ./anitsu -d day_of_the_week
