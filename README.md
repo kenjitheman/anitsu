@@ -40,7 +40,7 @@ anitsu -d day_of_the_week
 
 ## Output exaple
 
-```
+```rust
 [+] Title: Sousou no Frieren
     + English Title: Frieren: Beyond Journey's End
     + Japanese Title: 葬送のフリーレン
