@@ -29,16 +29,21 @@ AniTsu
 ## Installation
 
 ```sh
-go get -u github.com/kenjitheman/anitsu
+git clone https://github.com/kenjitheman/anitsu
 ```
 
 ## Usage
 
 ```sh
-anitsu -d day_of_the_week
+cd anitsu
+go build
 ```
 
-## Output exaple
+```sh
+./anitsu -d day_of_the_week
+```
+
+## Output example
 
 ```
 [+] Title: Sousou no Frieren
